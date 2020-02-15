@@ -9,8 +9,7 @@ def substraction(a,b):
 	# return result
 
 def multiplication(a,b):
-	# add code here
-	# return result
+	return a*b
 
 def division(a,b):
 	# add code here
